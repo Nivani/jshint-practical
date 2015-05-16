@@ -1,0 +1,22 @@
+{
+  "name": "jshint-practical",
+  "version": "0.1.0",
+  "description": "Practical reporter for JSHint",
+  "repository": "Nivani/jshint-practical",
+  "author": {
+    "name": "Nick Van Nieuwenhuyse"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "jshint",
+    "reporter",
+    "lint",
+    "validate",
+    "practical"
+  ],
+  "dependencies": {
+    "chalk": "^1.0.0"
+  }
+}
