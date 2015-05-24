@@ -15,7 +15,7 @@
                 }
 
                 var log = problem.file + ':' + error.line + ':' + error.character + ' ';
-                log += chalkFunction(error.code + ' ' + error.raw);
+                log += chalkFunction(error.code + ' ' + error.reason);
                 console.log(log);
 
                 previousFile = problem.file;
